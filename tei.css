@@ -665,7 +665,12 @@ lb {
     display : inline;
 }
 lb:before {
-    content: "";
+    content: "\A";
+    white-space: pre;
+}
+p lb:first-of-type:before {
+    content: "BLA\A";
+    white-space: pre;
 }
 p lb:after {
     counter-increment:linebreak;
