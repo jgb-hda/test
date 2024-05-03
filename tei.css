@@ -662,7 +662,7 @@ langUsage {
     margin-bottom : 1em;
 }
 lb {
-    display : block;
+    display : inline;
 }
 lb:before {
     content: "";
