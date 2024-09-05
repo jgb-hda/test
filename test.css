@@ -1,0 +1,12 @@
+* {
+     color: red;
+}
+
+div [_tag="teiHeader"], #dom_17, div div[_tag="teiHeader"] {
+     display: block !important;
+}
+
+[_tag="objectType"] {
+     color: orange;
+     font-weight: 800;
+}
