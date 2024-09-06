@@ -1,9 +1,9 @@
 * {
      color: red;
 }
+
 teiHeader 
 {     display: block !important;
-      color: blue !important;
 }
 
 [_tag="objectType"] {
