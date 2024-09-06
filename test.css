@@ -3,7 +3,8 @@
 }
 
 teiHeader 
-{     display: block !important;
+{     
+     display: block !important;
 }
 
 [_tag="objectType"] {
