@@ -19,12 +19,12 @@
    <text>
       <body>
          <p><listPerson>
-               <person>
-                  <persName xml:id="gnd_118575449"><ptr target="https://d-nb.info/gnd/118575449"
+               <person xml:id="gnd_118575449">
+                  <persName ><ptr target="https://d-nb.info/gnd/118575449"
                      />Martin Luther</persName>
                </person>
-               <person>
-                  <persName xml:id="gnd_118560093">Karl V</persName>
+               <personxml:id="gnd_118560093">
+                  <persName>Karl V</persName>
                </person>
             </listPerson>
             <listPlace>
