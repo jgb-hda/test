@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Custom Authority File</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><listPerson>
+               <person>
+                  <persName xml:id="gnd_118575449"><ptr target="https://d-nb.info/gnd/118575449"
+                     />Martin Luther</persName>
+               </person>
+               <person>
+                  <persName xml:id="gnd_118560093">Karl V</persName>
+               </person>
+            </listPerson>
+            <listPlace>
+               <place>
+                  <placeName xml:id="gnd_4014013-1">Eisenach</placeName>
+               </place>
+            </listPlace>
+            <listOrg>
+               <org>
+                  <orgName xml:id="gnd_4015833-0">Evangelische Kirche</orgName>
+               </org>
+               <org>
+                  <orgName xml:id="gnd_2035457-5">Heiliges Römisches Reich</orgName>
+               </org>
+            </listOrg></p>
+      </body>
+   </text>
+</TEI>
