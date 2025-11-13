@@ -28,16 +28,16 @@
                </person>
             </listPerson>
             <listPlace>
-               <place>
-                  <placeName xml:id="gnd_4014013-1">Eisenach</placeName>
+               <place xml:id="gnd_4014013-1">
+                  <placeName>Eisenach</placeName>
                </place>
             </listPlace>
             <listOrg>
-               <org>
-                  <orgName xml:id="gnd_4015833-0">Evangelische Kirche</orgName>
+               <org xml:id="gnd_4015833-0">
+                  <orgName>Evangelische Kirche</orgName>
                </org>
-               <org>
-                  <orgName xml:id="gnd_2035457-5">Heiliges Römisches Reich</orgName>
+               <org xml:id="gnd_2035457-5">
+                  <orgName>Heiliges Römisches Reich</orgName>
                </org>
             </listOrg></p>
       </body>
