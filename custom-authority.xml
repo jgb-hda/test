@@ -23,7 +23,7 @@
                   <persName ><ptr target="https://d-nb.info/gnd/118575449"
                      />Martin Luther</persName>
                </person>
-               <personxml:id="gnd_118560093">
+               <person xml:id="gnd_118560093">
                   <persName>Karl V</persName>
                </person>
             </listPerson>
