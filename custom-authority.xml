@@ -21,7 +21,7 @@
          <p><listPerson>
                <person xml:id="gnd_118575449">
                   <persName ><ptr target="https://d-nb.info/gnd/118575449"
-                     />Martin Luther</persName>
+                     />Martin Luther<note>Briefschreiber XY</note></persName>
                </person>
                <person xml:id="gnd_118560093">
                   <persName>Karl V</persName>
